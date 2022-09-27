@@ -28,6 +28,7 @@ Code block format in **TWO** ways:
 
 Horizontal line
 ___
+
 [Lab Report 1](https://rickyj1337.github.io/cse15l-lab-reports/lab-report-1-week-0.md)
 
 [Getting the W](https://rickyj1337.github.io/cse15l-lab-reports/theW.md)
