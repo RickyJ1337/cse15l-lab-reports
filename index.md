@@ -27,7 +27,7 @@ Code block format in **TWO** ways:
     4 spaces edition
 
 Horizontal line
-___
+***
 
 [Lab Report 1](https://rickyj1337.github.io/cse15l-lab-reports/lab-report-1-week-0.md)
 
