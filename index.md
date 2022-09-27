@@ -27,8 +27,9 @@ Code block format in **TWO** ways:
     4 spaces edition
 
 Horizontal line
+
 ***
 
-[Lab Report 1](https://rickyj1337.github.io/cse15l-lab-reports/lab-report-1-week-0.md)
+[Lab Report 1](https://rickyj1337.github.io/cse15l-lab-reports/lab-report-1-week-0)
 
-[Getting the W](https://rickyj1337.github.io/cse15l-lab-reports/theW.md)
+[Getting the W](https://rickyj1337.github.io/cse15l-lab-reports/theW)

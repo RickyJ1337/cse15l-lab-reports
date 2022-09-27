@@ -1,7 +1,8 @@
 getting the **W**
 
-I am *italics*
-# I am head
-## I am head 2
+![Image](TheW.GIF)
 
-*This should be italics if not markdown bugging out*
+I am *italics*
+# I am header
+## I am header too
+
