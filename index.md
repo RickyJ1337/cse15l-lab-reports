@@ -6,3 +6,5 @@ yea you still lookin at an *index*.
 two underscore __bold__
 
 two asterisk **bold**
+
+[Lab Report 1](https://rickyj1337.github.io/cse15l-lab-reports/)
