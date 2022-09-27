@@ -1,6 +1,6 @@
 getting the **W**
 
-![Image](TheW.GIF)
+![GIF](TheW.gif)
 
 I am *italics*
 # I am header
