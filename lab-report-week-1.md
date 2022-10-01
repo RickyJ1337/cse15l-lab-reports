@@ -4,13 +4,17 @@ What's good homies, I'm here to show y'all how to log into your course-specific 
 ***
 ## 1. INSTALL VISUAL STUDIO CODE
 So the first thing you gotta do is install Visual Studio Code (also known as VSCode) onto your computer. If you already have it installed, you can skip this step. For the rest of you, click on this [link](https://code.visualstudio.com/) which should take you to the VSCode website, where you should see this screen: ![Image](VSCode.PNG)
+
 Select the appropriate installer for your system and follow the installation process. After installation, you should come up to this screen: ![Image](Start.PNG)
+
 Alright! Now you are ready to proceed to step 2!
 ***
 ## 2. RESET/SETUP PASSWORD AND SSH LOGIN
 So now you got VSCode up and running, cool! It's time to connect to your `ieng6` account! But wait, we first gotta reset the password for the account, we're gonna need it to log in. First, go to the UCSD account lookup [here](https://sdacs.ucsd.edu/~icc/index.php) and enter your UCSD account details so that you can find your CSE 15L `ieng6` account. After that, you should be on this screen: ![Image](Lookup.PNG)
+
 The first box in the "Additional Accounts" section is your CSE 15L username. Click on the _change your password_ button and you should arrive at this screen: ![Image](Password.PNG)
 Here, use your CSE 15L username from the previous screen so that you can change its password. You should arrive at this screen: ![Image](Change.PNG)
+
 Here, type out your current password that you use for TritonLink, and make up whatever password you want for your account (as long as it meets the requirements). Make sure you set the **Change MyTritonLink password** option to "No" (unless you want to change your MyTritonLink password). Finally, after writing your new password, do **NOT** hit the "Check Password" button, but instead hit the "Enter" key to save your new password. You should be taken to the success screen (or a white screen if AdBlock is enabled). 
 
 At this point, wait at least 15 minutes for your password to register in the system. For me, it took around 1 hour due to the large amount of students resetting their passwords at the same time. 
@@ -82,4 +86,5 @@ Remember Part 2 where you had 2 options for opening the terminal? Well, you will
 
 Another (and my final) trick you can use is within the terminal, you can use the "up" and "down" keys to quickly recall the last command you used in the terminal. If you know that you used `ssh` in the last few commands, you can "up" key a few times to get to that command, which should be faster than having to type out your entire username.
 ![Image](UpArrow.PNG)
+
 Thanks for reading!
