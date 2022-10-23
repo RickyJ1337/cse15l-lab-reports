@@ -1,7 +1,8 @@
 # WEEK 3 LAB REPORT BY YOURS TRULY
 ## Part 1: Simplest Search Engine + Errors
 Here's my attempt at creating a search engine (only some of it works):
-```import java.io.IOException;
+```
+import java.io.IOException;
 import java.net.URI;
 import java.util.ArrayList;
 
@@ -83,3 +84,4 @@ else if (url.getPath().contains("/search")) {
         }
 ```
 ## Part 2: Supreme Debugging
+Debuggers
