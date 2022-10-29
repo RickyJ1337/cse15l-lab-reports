@@ -30,7 +30,7 @@ Horizontal line
 
 ***
 
-Look at my lab reports! the W
+Look at my lab reports! 
 
 [Lab Report 1](https://rickyj1337.github.io/cse15l-lab-reports/lab-report-1-week-0)
 
