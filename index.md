@@ -39,3 +39,5 @@ Look at my lab reports!
 [Lab Report 2](https://rickyj1337.github.io/cse15l-lab-reports/lab-report-week-1)
 
 [Lab Report 3](https://rickyj1337.github.io/cse15l-lab-reports/lab-report-week-3)
+
+[Lab Report 4](https://rickyj1337.github.io/cse15l-lab-reports/lab-report-week-5)
