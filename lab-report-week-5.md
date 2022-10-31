@@ -2,6 +2,7 @@
 For this lab report, I will be using the `grep` command with 3 different variations. Assume all commands are within the `./technical` directory.
 
 ## -r
+The `-r` variant of the `grep` command allows you to search all files within the working directory and all of its sub-directories.
 ```
 grep -r "oxi" 
 .
