@@ -32,12 +32,16 @@ Horizontal line
 
 Look at my lab reports! 
 
-[Lab Report 1](https://rickyj1337.github.io/cse15l-lab-reports/lab-report-1-week-0)
+[Lab Report 0](https://rickyj1337.github.io/cse15l-lab-reports/lab-report-1-week-0)
 
 [Getting the W](https://rickyj1337.github.io/cse15l-lab-reports/theW)
 
-[Lab Report 2](https://rickyj1337.github.io/cse15l-lab-reports/lab-report-week-1)
+[Lab Report 1](https://rickyj1337.github.io/cse15l-lab-reports/lab-report-week-1)
 
-[Lab Report 3](https://rickyj1337.github.io/cse15l-lab-reports/lab-report-week-3)
+[Lab Report 2](https://rickyj1337.github.io/cse15l-lab-reports/lab-report-week-3)
 
-[Lab Report 4](https://rickyj1337.github.io/cse15l-lab-reports/lab-report-week-5)
+[Lab Report 3](https://rickyj1337.github.io/cse15l-lab-reports/lab-report-week-5)
+
+[Lab Report 4](https://rickyj1337.github.io/cse15l-lab-reports/lab-report-week-7)
+
+[Lab Report 5](https://rickyj1337.github.io/cse15l-lab-reports/lab-report-week-9)
