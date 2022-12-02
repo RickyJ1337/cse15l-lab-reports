@@ -5,21 +5,21 @@ What is up coders, today I will be doing lots of Vim! I will be taking an existi
 The file I will be modifying is DocSearchServer.java, and the edit I will make is replacing every instance of `start` with `base`.
 
 /start\<Enter>
-![Image](../../../../../../../../C:/Users/rn3po/AppData/Local/GitHubDesktop/app-2.9.4/cse15l-lab-reports/startEnter.PNG)
+![Image](startEnter.PNG)
 `/start` searches for the first instance of the word "start" and `<Enter>` takes the cursor to the first letter of that word. It takes 7 keystrokes for these commands.
 
 cw
-![Image](../../../../../../../../C:/Users/rn3po/AppData/Local/GitHubDesktop/app-2.9.4/cse15l-lab-reports/cw.PNG)
+![Image](cw.PNG)
 `c` switches the mode to insert and `w` deletes the word "start". It takes 2 keystrokes.
 
 “base”\<ESC>
-![Image](../../../../../../../../C:/Users/rn3po/AppData/Local/GitHubDesktop/app-2.9.4/cse15l-lab-reports/baseESC.PNG)
+![Image](baseESC.PNG)
 4 keystrokes to enter the word "base" and 1 keystroke to exit out of Insert mode, so 5 keystrokes for these commands.
 
 n and . 3 times
-![Image](../../../../../../../../C:/Users/rn3po/AppData/Local/GitHubDesktop/app-2.9.4/cse15l-lab-reports/n1.PNG)
-![Image](../../../../../../../../C:/Users/rn3po/AppData/Local/GitHubDesktop/app-2.9.4/cse15l-lab-reports/n2.PNG)
-![Image](../../../../../../../../C:/Users/rn3po/AppData/Local/GitHubDesktop/app-2.9.4/cse15l-lab-reports/n3.PNG)
+![Image](n1.PNG)
+![Image](n2.PNG)
+![Image](n3.PNG)
 `n` takes the cursor to the next usage of the word "start" and `.` repeats the previous change made, which in this case was replacing the word "start" with "base". This takes 2 keystrokes, and since these 2 commands are done 3 times (because there are 3 more instances of "start"), it will take 6 keystrokes for these commands.
 
 “:x”\<Enter> to save the changes and exit Vim. This will take 3 keystrokes to do. I use `:x` since it takes 1 less keystroke than `:wq`. 
