@@ -23,11 +23,13 @@ cw
 4 keystrokes to enter the word "base" and 1 keystroke to exit out of Insert mode, so 5 keystrokes for these commands.
 
 n and . 3 times
+
 ![Image](n1.PNG)
 
 ![Image](n2.PNG)
 
 ![Image](n3.PNG)
+
 `n` takes the cursor to the next usage of the word "start" and `.` repeats the previous change made, which in this case was replacing the word "start" with "base". This takes 2 keystrokes, and since these 2 commands are done 3 times (because there are 3 more instances of "start"), it will take 6 keystrokes for these commands.
 
 “:x”\<Enter> to save the changes and exit Vim. This will take 3 keystrokes to do. I use `:x` since it takes 1 less keystroke than `:wq`. 
